@@ -1,0 +1,52 @@
+{
+  "slug": "beevaathu-events-guruvayur",
+  "name": "Beevaathu Events",
+  "shortName": "Beevaathu",
+  "descriptor": "Event Management",
+  "address": "Beevaathu Events, Bhavanm regency, Ponnuparambil, Guruvayur, Keralam 680101",
+  "area": "Ponnuparambil",
+  "city": "Guruvayur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680101",
+  "geo": {
+    "lat": 10.5924861,
+    "lng": 76.04567879999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=4146359237240240955",
+  "phone": "+91 80787 35172",
+  "whatsapp": "918078735172",
+  "hours": "Open 9:30 am – 6:30 pm · closed Sun",
+  "opens": "09:30",
+  "closes": "18:30",
+  "rating": 5,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "name": "Rashid jinu",
+      "rating": 5,
+      "quote": "Absolutely amazing experience with Beevaathu events! From start to finish, the team was professional, attentive, and incredibly well-organized. They took care of every little detail and made the entire process completely stress-free. The event turned out even better than I imagined — beautifully planned and perfectly executed."
+    },
+    {
+      "name": "Akshay Ks",
+      "rating": 5,
+      "quote": "Beevaathu Events made everything so easy and fun Really impressed with their planning, decoration, and the way they handled the whole event. Super friendly team and very creative ideas. Felt like everything was done just the way we imagined. Totally recommend them if you want your event to be stress-free and memorable!"
+    },
+    {
+      "name": "Aiswarya Kv",
+      "rating": 5,
+      "quote": "It's rare to find an event company that blends tradition with trend so well.\"\"Beevaathu\" gave our community fest a fresh identity..."
+    },
+    {
+      "name": "Abdul Rahoof",
+      "rating": 5,
+      "quote": "Good events good service ❤️❤️❤️"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://beevaathu-events-guruvayur.vercel.app"
+}
